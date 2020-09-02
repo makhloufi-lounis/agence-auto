@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7388db76-001a-4276-8d05-3636f0b7c54f" name="Default Changelist" comment="" />
+    <list default="true" id="7388db76-001a-4276-8d05-3636f0b7c54f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/includes/PHP File Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/PHP File Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/internal/PHP File.php" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/internal/PHP File.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,7 +32,12 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +156,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.php.quality.tools" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -146,12 +174,23 @@
       <option name="presentableId" value="Default" />
       <updated>1599079222777</updated>
       <workItem from="1599079224846" duration="3009000" />
-      <workItem from="1599082462780" duration="811000" />
+      <workItem from="1599082462780" duration="3109000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="579" y="210" width="824" height="684" key="#CLI_Interpreters" timestamp="1599080295001">
@@ -166,21 +205,33 @@
       <screen x="73" y="27" width="1847" height="1053" />
     </state>
     <state x="102" y="179" width="824" height="684" key="#PHP_CS_Fixer/73.27.1847.1053@73.27.1847.1053" timestamp="1599083112663" />
-    <state x="579" y="210" width="824" height="684" key="#PHP_CodeSniffer" timestamp="1599083087219">
+    <state x="579" y="210" width="824" height="684" key="#PHP_CodeSniffer" timestamp="1599083349200">
       <screen x="73" y="27" width="1847" height="1053" />
     </state>
-    <state x="579" y="210" width="824" height="684" key="#PHP_CodeSniffer/73.27.1847.1053@73.27.1847.1053" timestamp="1599083087219" />
+    <state x="579" y="210" width="824" height="684" key="#PHP_CodeSniffer/73.27.1847.1053@73.27.1847.1053" timestamp="1599083349200" />
     <state x="897" y="466" width="610" height="324" key="#PHP_CodeSniffer_Ignored_Files" timestamp="1599082483865">
       <screen x="73" y="27" width="1847" height="1053" />
     </state>
     <state x="897" y="466" width="610" height="324" key="#PHP_CodeSniffer_Ignored_Files/73.27.1847.1053@73.27.1847.1053" timestamp="1599082483865" />
-    <state x="774" y="295" width="424" height="514" key="FileChooserDialogImpl" timestamp="1599083109408">
+    <state x="722" y="466" width="539" height="172" key="ComposerInitDialogKey" timestamp="1599083289001">
       <screen x="73" y="27" width="1847" height="1053" />
     </state>
-    <state x="774" y="295" width="424" height="514" key="FileChooserDialogImpl/73.27.1847.1053@73.27.1847.1053" timestamp="1599083109408" />
-    <state x="478" y="187" key="SettingsEditor" timestamp="1599083273852">
+    <state x="722" y="466" width="539" height="172" key="ComposerInitDialogKey/73.27.1847.1053@73.27.1847.1053" timestamp="1599083289001" />
+    <state x="774" y="295" width="416" height="514" key="FileChooserDialogImpl" timestamp="1599083342608">
       <screen x="73" y="27" width="1847" height="1053" />
     </state>
-    <state x="478" y="187" key="SettingsEditor/73.27.1847.1053@73.27.1847.1053" timestamp="1599083273852" />
+    <state x="774" y="295" width="416" height="514" key="FileChooserDialogImpl/73.27.1847.1053@73.27.1847.1053" timestamp="1599083342608" />
+    <state x="684" y="267" width="614" height="571" key="NewPhpClassDialog" timestamp="1599085163314">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state x="684" y="267" width="614" height="571" key="NewPhpClassDialog/73.27.1847.1053@73.27.1847.1053" timestamp="1599085163314" />
+    <state x="478" y="187" key="SettingsEditor" timestamp="1599085909961">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state x="478" y="187" key="SettingsEditor/73.27.1847.1053@73.27.1847.1053" timestamp="1599085909961" />
+    <state x="173" y="125" width="1647" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599084841534">
+      <screen x="73" y="27" width="1847" height="1053" />
+    </state>
+    <state x="173" y="125" width="1647" height="855" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/73.27.1847.1053@73.27.1847.1053" timestamp="1599084841534" />
   </component>
 </project>
